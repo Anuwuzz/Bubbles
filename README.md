@@ -4,7 +4,7 @@
 Bubble Pop is a delightful web-based game designed to help you pass the time and combat boredom! With its interactive gameplay and vibrant animations, you can tap on floating bubbles to pop them and enjoy satisfying sound effects. It's a simple yet entertaining way to relax and have some fun! 🎉💖
 
 ## 🌐 Live Demo
-Experience the magic! Check out the live version of the project at: [Peek-a-Boo Live Demo]( https://anuwuzz.github.io/Bubbles/) ☁️
+Experience the magic! Check out the live version of the project at: [Bubbles]( https://anuwuzz.github.io/Bubbles/) ☁️
 
 ## 🚀 Features
 - **🎮 Interactive**: Tap to pop floating bubbles and enjoy the satisfying feeling of bursting them!
