@@ -1,4 +1,4 @@
-# 🫧 Bubble: Fun Bubble Popping Game 🎈
+# 🫧 Bubbles: Fun Bubble Popping Game 🎈
 
 ## 📖 Overview
 Bubble Pop is a delightful web-based game designed to help you pass the time and combat boredom! With its interactive gameplay and vibrant animations, you can tap on floating bubbles to pop them and enjoy satisfying sound effects. It's a simple yet entertaining way to relax and have some fun! 🎉💖
